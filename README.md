@@ -1,2 +1,4 @@
 # pruebatxt
-practicando sobre repositorios
+practicando sobre repositorios.
+
+Mi primera contribución,
